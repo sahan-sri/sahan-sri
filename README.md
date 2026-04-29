@@ -68,11 +68,11 @@ const sahan = {
 
 ## 💼 Experience
 
-| Role | Organization | Duration |
-|------|-------------|----------|
-| 🖥️ **IT Technician** | Orion College | 6 months |
-| 📱 **Digital Marketing Intern** | — | 6 months |
-| 💻 **Frontend Developer Intern** | Niftra Solutions | 3 months |
+| Role | Organization | 
+|------|-------------|
+| 🖥️ **IT Technician** | Orion College | 
+| 📱 **Digital Marketing Intern** | — | 
+| 💻 **Frontend Developer Intern** | Niftra Solutions |
 
 ---
 
@@ -80,7 +80,8 @@ const sahan = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahansri&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahansri&theme=tokyonight" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahansri&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
 
